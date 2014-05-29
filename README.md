@@ -1,4 +1,6 @@
 docmock
 =======
 
-An easy way to mock, describe and document your API by writing a simple Readme
+A mock server for all API's you may want, just by writing a Readme.
+
+An easy way to describe, document, mock and test your services.
